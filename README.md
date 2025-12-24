@@ -32,6 +32,20 @@ Indonesia dikenal sebagai pusat rempah dunia. Namun, identifikasi manual terhada
 
 ---
 
+# 📊 SUMBER DATASET 📊
+
+Dataset yang digunakan dalam proyek ini berasal dari satu sumber utama publik di Kaggle:
+
+### 1. Kaggle - Indonesian Spices Dataset
+* **Judul Dataset**: *Indonesian Spices Dataset*
+* **Link**: [Kaggle - Indonesian Spices Dataset](https://www.kaggle.com/datasets/albertnathaniel12/indonesian-spices-dataset)
+* **Deskripsi**: Dataset ini berisi ribuan citra rempah-rempah asli Indonesia yang telah dikategorikan ke dalam 31 kelas berbeda. Dataset ini dikumpulkan untuk memfasilitasi penelitian di bidang *Computer Vision* dan *Machine Learning* khususnya untuk pengenalan komoditas lokal.
+* **Karakteristik Data**: 
+    * Mencakup variasi visual yang luas dari setiap jenis rempah (bentuk, warna, dan tekstur).
+    * Telah dipisahkan ke dalam folder-folder berdasarkan nama labelnya untuk mempermudah proses *labeling* otomatis saat *training*.
+
+---
+
 # 📊 EKSPLORASI DATASET 📊
 
 Dataset mencakup variasi gambar dari 31 jenis rempah Indonesia yang diambil dalam berbagai kondisi pencahayaan dan sudut pandang.
