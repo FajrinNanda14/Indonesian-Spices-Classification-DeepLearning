@@ -1,4 +1,4 @@
-# 🌿 Identifikasi Jenis Rempah-Rempah Dapur Indonesia 🌿
+# 🌿Identifikasi Jenis Rempah-Rempah Dapur Indonesia🌿
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://tensorflow.org/)
