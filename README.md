@@ -102,3 +102,24 @@ Aplikasi web dikembangkan agar pengguna dapat melakukan prediksi secara instan d
 ├── App.py              # File script utama aplikasi Streamlit
 ├── requirements.txt    # Daftar library Python (TensorFlow, Streamlit, dll)
 └── README.md           # Dokumentasi utama proyek
+```
+---
+
+# 👤 BIODATA 👤
+
+| Kategori | Informasi |
+| :--- | :--- |
+| **Nama Lengkap** | Fajrin Nanda Iqbal Kharis M|
+| **NIM** | 202210370311126 |
+| **Program Studi** | Teknik Informatika |
+| **Fakultas** | Fakultas Teknik |
+| **Universitas** | Universitas Muhammadiyah Malang |
+| **GitHub** | [@FajrinNanda14](https://github.com/FajrinNanda14) |
+| **Proyek** | Tugas Akhir Praktikum Pembelajaran Mesin |
+
+---
+
+<p align="center">
+  <b>Ujian Akhir Praktikum Pembelajaran Mesin 2024/2025</b><br>
+  <i>"Inovasi Deep Learning untuk Mengenali Kekayaan Rempah Indonesia"</i>
+</p>
