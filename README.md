@@ -40,7 +40,6 @@ Dataset mencakup variasi gambar dari 31 jenis rempah Indonesia yang diambil dala
 * **Preprocessing**:
     * **Resizing**: Semua citra diubah ukurannya menjadi **128 x 128** piksel.
     * **Normalization**: Nilai piksel diskalakan ulang ke rentang [0, 1] melalui *scaling* 1/255.
-    * **Data Augmentation**: Menggunakan teknik *Rotation*, *Width/Height Shift*, dan *Zoom* pada model base untuk memperkaya variasi data training dan mencegah overfitting.
 
 ---
 
