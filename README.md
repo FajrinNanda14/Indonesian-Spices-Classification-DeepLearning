@@ -86,9 +86,14 @@ Berdasarkan hasil pengujian pada *Validation Set*, MobileNetV2 menunjukkan keung
 ### Visualisasi Performa
 Berikut adalah grafik pelatihan dan matriks kebingungan (*Confusion Matrix*) untuk model terbaik:
 
+#### 1. Grafik Akurasi & Loss (MobileNetV2)
 <p align="center">
-  <img src="Assets/Akurasi_Grafik.png" width="45%" title="Grafik Akurasi">
-  <img src="Assets/CM_MobileNet.png" width="45%" title="Confusion Matrix MobileNetV2">
+  <img src="Assets/pretrained 1.png" width="80%" alt="Grafik Akurasi dan Loss">
+</p>
+
+#### 2. Confusion Matrix (MobileNetV2)
+<p align="center">
+  <img src="Assets/CM MobileNetV2.png" width="90%" alt="Confusion Matrix MobileNetV2">
 </p>
 
 ---
@@ -101,7 +106,7 @@ Aplikasi web dikembangkan agar pengguna dapat melakukan prediksi secara instan d
 3.  **Langkah 3**: Sistem akan memproses citra dan menampilkan nama rempah beserta skor tingkat keyakinannya.
 
 <p align="center">
-  <img src="Assets/Preview_Web.png" width="80%" alt="Preview Aplikasi">
+  <img src="Assets/Dashboard Streamlit.jpg" width="80%" alt="Preview Aplikasi">
 </p>
 
 ---
@@ -110,7 +115,6 @@ Aplikasi web dikembangkan agar pengguna dapat melakukan prediksi secara instan d
 
 ```text
 ├── Assets/             # Screenshot aplikasi, grafik akurasi, dan Confusion Matrix
-├── Docs/               # Laporan tugas akhir (PDF)
 ├── Model/              # Folder penyimpanan file model (.h5)
 ├── Notebook/           # File .ipynb (Proses EDA, Training, dan Evaluasi)
 ├── App.py              # File script utama aplikasi Streamlit
