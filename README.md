@@ -79,7 +79,7 @@ Berdasarkan hasil pengujian pada *Validation Set*, MobileNetV2 menunjukkan keung
 
 | Arsitektur Model | Accuracy | Loss | Keterangan |
 | :--- | :---: | :---: | :--- |
-| **Custom CNN (Base)** | ~57% | Tinggi | Mengalami overfitting yang signifikan. |
+| **Custom CNN (Base)** | ~51% | Tinggi | Mengalami overfitting yang signifikan. |
 | **VGG16** | ~70% | Sedang | Performa cukup baik namun model sangat berat. |
 | **MobileNetV2** | **~83%** | **Rendah** | **Model Terbaik.** Paling stabil, akurat, dan efisien. |
 
